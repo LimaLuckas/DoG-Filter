@@ -9,7 +9,7 @@
 
 ## Installation
 ```bash
-git clone http://github.com/LimaLuckas/DoG-Filter
+git clone https://github.com/LimaLuckas/DoG-Filter
 pip install -r requirements.txt 
 ```
 Inspired on the works of Winnemoeler, Krypianidis and Olsen(2013) to research and formalization of the Extended Difference of Gausians.\
